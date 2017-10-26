@@ -1,0 +1,1 @@
+Solution to HackerRank "sherlock-and-gcd" problem in mathematics/Number System section
